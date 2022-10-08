@@ -1,0 +1,8 @@
+prefix=/home/yu/codings/ros-work/learn/install
+
+Name: learn_topic
+Description: Description of learn_topic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
