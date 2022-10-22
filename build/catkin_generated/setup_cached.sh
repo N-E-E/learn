@@ -7,8 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/yu/codings/ros-work/learn/devel:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/home/yu/codings/ros-work/learn/devel/lib:$LD_LIBRARY_PATH"
 export PWD='/home/yu/codings/ros-work/learn/build'
-export ROSLISP_PACKAGE_DIRECTORIES="/home/yu/codings/ros-work/learn/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/yu/codings/ros-work/learn/src:$ROS_PACKAGE_PATH"

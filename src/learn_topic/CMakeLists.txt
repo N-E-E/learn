@@ -155,6 +155,9 @@ include_directories(
 add_executable(velocity_publisher src/velocity_publisher)
 target_link_libraries(velocity_publisher ${catkin_LIBRARIES})
 
+add_executable(pose_subscriber src/pose_subscriber)
+target_link_libraries(pose_subscriber ${catkin_LIBRARIES})
+
 #############
 ## Install ##
 #############
